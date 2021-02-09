@@ -1,1 +1,1 @@
-git is a verion control system
+git is afree software
